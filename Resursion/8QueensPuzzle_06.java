@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class p06_8QueensPuzzle {
+public class 8QueensPuzzle_06 {
     private static final int BOARD_SIDE = 8;
 
     private static final Boolean[][] board = new Boolean[BOARD_SIDE][BOARD_SIDE];
