@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.*;
 
-public class p07_PathsInLabyrinth {
+public class PathsInLabyrinth_07 {
 
     private static final char EXIT_SYMBOL = 'e';
     private static final char BLOCKED_SYMBOL = '*';
