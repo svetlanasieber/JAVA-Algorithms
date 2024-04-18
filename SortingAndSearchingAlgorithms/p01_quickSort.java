@@ -2,9 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- * Created by vladix on 7/9/17.
- */
+
 public class p01_quickSort {
 
     private static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
