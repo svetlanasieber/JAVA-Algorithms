@@ -1,1 +1,1 @@
-
+Borůvka's Algorithm, also known as Borůvka's Minimum Spanning Tree Algorithm, is a classic algorithm in graph theory developed by Otakar Borůvka in 1926. It is designed to find the minimum spanning tree (MST) of a graph, which is a subset of the edges that connects all vertices together without any cycles and with the minimum possible total edge weight.
