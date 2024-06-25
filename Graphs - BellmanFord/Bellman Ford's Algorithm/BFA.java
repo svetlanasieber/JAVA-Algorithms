@@ -33,7 +33,6 @@ class CreateGraph {
 
     for (int i = 1; i < V; ++i) {
       for (int j = 0; j < E; ++j) {
-        // Get the edge data
         int u = graph.edge[j].s;
         int v = graph.edge[j].d;
         int w = graph.edge[j].w;
