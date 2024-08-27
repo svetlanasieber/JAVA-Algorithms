@@ -1,5 +1,3 @@
-package recursion_and_combinatorial_exercise;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
