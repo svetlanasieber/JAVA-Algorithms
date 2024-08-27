@@ -1,5 +1,3 @@
-package recursion_and_combinatorial_exercise;
-
 import java.util.*;
 import java.util.stream.Collectors;
 
