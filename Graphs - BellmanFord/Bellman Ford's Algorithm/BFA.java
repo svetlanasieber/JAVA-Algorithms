@@ -65,27 +65,27 @@ class CreateGraph {
 
     CreateGraph graph = new CreateGraph(V, E);
 
-    // edge 0 --> 1
+   
     graph.edge[0].s = 0;
     graph.edge[0].d = 1;
     graph.edge[0].w = 5;
 
-    // edge 0 --> 2
+  
     graph.edge[1].s = 0;
     graph.edge[1].d = 2;
     graph.edge[1].w = 4;
 
-    // edge 1 --> 3
+   
     graph.edge[2].s = 1;
     graph.edge[2].d = 3;
     graph.edge[2].w = 3;
 
-    // edge 2 --> 1
+   
     graph.edge[3].s = 2;
     graph.edge[3].d = 1;
     graph.edge[3].w = 6;
 
-    // edge 3 --> 2
+   
     graph.edge[4].s = 3;
     graph.edge[4].d = 2;
     graph.edge[4].w = 2;
